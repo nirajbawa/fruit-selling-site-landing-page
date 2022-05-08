@@ -1,0 +1,989 @@
+@media only screen and (max-width:1400px) {
+
+    /* header css */
+    .abutimg img {
+        height: 486px;
+    }
+
+    .abutimg {
+        margin-right: 113px;
+        z-index: -18;
+    }
+
+    /* signing css */
+    #signinsec {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+
+    /*footer section css*/
+
+
+    .col2 {
+        border-right: none;
+    }
+
+    
+    .col3 {
+        padding: 6% 2% 6% 2%;
+        text-align: center;
+    }
+
+    .col2 h3 {
+        text-align: center;
+    }
+
+    .col3 h3 {
+        text-align: center;
+    }
+
+
+}
+
+
+@media only screen and (max-width:1200px) {
+
+    /* header css */
+    /* .container {
+        flex-direction: column;
+        padding-top: 60px;
+        padding-left: 205px;
+        padding-right: 205px;
+    } */
+    #header {
+        height: 370%;
+    }
+
+    #signinsec {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .downsup h1 {
+        font-size: 60px;
+    }
+
+    /* signing css */
+    .secupper {
+        padding-right: 67px;
+    }
+
+    /* product css */
+
+    .proddown {
+        padding: 10% 0% 0%;
+        justify-content: center;
+        gap: 45px 35px;
+    }
+
+    #productsec {
+        padding: 10% 5%
+    }
+
+    .prodimg img {
+        width: 215px;
+    }
+
+    .prodimg img {
+        width: 250px;
+    }
+
+}
+
+
+@media only screen and (max-width:1000px) {
+
+    /* about css */
+    .upperdiv h1 {
+        font-size: 45px;
+    }
+
+    .innrabout {
+        padding-bottom: 62px;
+    }
+
+    /* signing css */
+    .downsup h1 {
+        font-size: 50px;
+    }
+
+    .downsup p:nth-child(1) {
+        margin-bottom: 1px;
+        font-size: 15px;
+    }
+
+    .downup2p {
+        font-size: 14px;
+    }
+
+    .downsup h1 {
+        margin-bottom: 7px;
+    }
+
+    .downsdow {
+        margin-top: 0px;
+        margin-right: 0px;
+        padding-right: 95px;
+    }
+
+    .downsdow button {
+        font-size: 14px;
+        padding: 5%;
+        width: 115px;
+    }
+
+    .secdown {
+        padding: 4% 0% 8% 0%;
+    }
+
+    .secupper {
+        padding-right: 104px;
+    }
+
+    #signinsec {
+        padding-left: 12%;
+        padding-right: 0%;
+        height: 97%;
+        padding-top: 6%;
+        padding-bottom: 6%;
+    }
+
+    .secupper img {
+        height: 400px;
+    }
+
+    /*footer section css*/
+
+    .col1down h1 {
+        font-size: 73px;
+    }
+
+    .col1down1 {
+        font-size: 17px;
+    }
+
+    .col1 {
+        padding: 6% 2% 6% 2%;
+    }
+
+    .col2 {
+        padding: 6% 2% 6% 2%;
+    }
+
+    .col3 {
+        padding: 6% 2% 6% 2%;
+    }
+
+    .col3 {
+        padding: 6% 2% 6% 2%;
+        text-align: center;
+    }
+
+    .col2 h3 {
+        text-align: center;
+    }
+
+    .col3 h3 {
+        text-align: center;
+    }
+
+}
+
+
+@media only screen and (max-width:900px) {
+
+    /* nav css */
+    #main #upp {
+        height: 77px;
+    }
+
+    #main #upp nav .menuicon {
+        width: 120px;
+    }
+
+    #main #upp nav .menuicon ul {
+        display: none;
+    }
+
+    #main #upp nav .menuicon .cart {
+        margin-right: 0%;
+    }
+
+    #main #upp nav .menuicon .menufabar {
+        margin-left: 0%;
+    }
+
+    .openMenu {
+        padding-bottom: 45%;
+        padding-top: 45%;
+    }
+
+
+    .container {
+        flex-direction: column;
+        padding-top: 60px;
+        padding-left: 205px;
+        padding-right: 205px;
+    }
+
+    /* header css */
+
+    /* .container {
+        flex-direction: column;
+    } */
+
+    .heading {
+        font-size: 40px;
+        margin-bottom: 5px;
+    }
+
+    .slow {
+        margin-bottom: 0px;
+        font-size: 13px;
+    }
+
+    .fruitimg img {
+        width: 256px;
+    }
+
+    .container {
+        padding-top: 20%;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .icon {
+        margin-bottom: -17px;
+    }
+
+    .card {
+        height: 505px;
+        margin-bottom: 130px;
+    }
+
+
+
+    #header {
+        height: 100%;
+    }
+
+    .fruitimg3 img {
+        width: 256px;
+    }
+
+    .fruitimg3 {
+        bottom: -20%;
+        animation: cardimgimage3res 3s linear infinite;
+    }
+
+    @keyframes cardimgimage3res {
+        0% {
+            bottom: -20%;
+        }
+
+        50% {
+            bottom: -18%;
+        }
+
+        100% {
+            bottom: -20%;
+        }
+    }
+
+    .heading3 {
+        margin-bottom: 0px;
+        font-size: 40px;
+    }
+
+    .slow1 {
+        margin-bottom: -90px;
+    }
+
+    /* about css */
+    #about {
+        flex-direction: column;
+    }
+
+    .upperdiv {
+        flex-direction: column;
+    }
+
+    .upperdiv h1 {
+        font-size: 45px;
+    }
+
+    .upperdiv p {
+        padding-bottom: 6px;
+    }
+
+
+    .downdiv p {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+
+
+    .innrabout {
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-bottom: 0px;
+    }
+
+    #about {
+        height: 100%;
+        margin-bottom: -23%;
+    }
+
+    .abutimg {
+        position: relative;
+        top: -586px;
+        right: -434px;
+        padding: 0px;
+        z-index: -18;
+        width: 0px;
+        margin-right: 0px;
+    }
+
+    .abutimg img {
+        height: 279px;
+    }
+
+    .openMenu {
+        padding-bottom: 45%;
+        padding-top: 45%;
+        position: absolute;
+        z-index: -12;
+    }
+
+    /* signing css */
+    .downsup h1 {
+        font-size: 34px;
+        line-height: 66px;
+    }
+
+    .downsup p:nth-child(1) {
+        font-size: 12px;
+    }
+
+    .downsdow {
+        margin-top: 0px;
+        margin-right: 0px;
+        padding-right: 0px;
+    }
+
+    .secdown {
+        padding: 5% 0% 14% 0%;
+    }
+
+    /* product css */
+
+    .proddown {
+        padding: 10% 0% 0%;
+        justify-content: center;
+        gap: 95px 35px;
+    }
+
+    .prdcard {
+        margin-bottom: 0px !important;
+    }
+
+    /* user feedback css */
+
+
+    .ufeedbsec {
+        padding: 0% 0%;
+    }
+
+    .feeddbuppdvi {
+        width: 100px;
+        height: 100px;
+    }
+
+    .feedbdowndiv h5 {
+        font-size: 16px;
+    }
+
+
+    .feedbdowndiv p {
+        font-family: Roboto, sans-serif;
+        font-style: italic;
+        color: #7c7c7c;
+        font-size: 10px;
+        line-height: 19px;
+    }
+
+
+
+    #ufeedbsec {
+        padding: 9% 5%;
+    }
+
+    .owl-theme .owl-dots .owl-dot span {
+        width: 10px;
+        height: 10px;
+    }
+
+    /*footer section css*/
+
+
+    .col1 {
+        border-right: none;
+    }
+
+    .col2 {
+        border-right: 2px solid #e8e8e8;
+    }
+
+}
+
+
+
+
+
+@media only screen and (max-width:700px) {
+
+    /* signing css */
+    .abutimg {
+        top: -601px;
+        right: -312px;
+    }
+
+    /* signing css */
+    .secupper {
+        padding-right: 30px;
+    }
+
+    #signinsec {
+        padding-left: 5%;
+    }
+
+    .secdown {
+        padding: 9% 0% 13% 0%;
+    }
+
+    .secupper {
+        padding-right: 33px;
+    }
+
+    .prodsmorebtn button {
+        font-size: 14px;
+        padding: 0px 33px;
+    }
+
+    .prodsmorebtn {
+        padding: 18px 0%;
+
+        padding: 18px 0%;
+        margin-top: 70px;
+        margin-bottom: 60px;
+    }
+
+    /* newslett section */
+
+    #newsletsec h1 {
+        font-size: 40px;
+    }
+
+    /*footer section css*/
+
+
+    .col2 {
+        border-right: none;
+    }
+
+}
+
+
+
+
+@media only screen and (max-width:600px) {
+
+    /* header css */
+    #header {
+        height: 100%;
+    }
+
+    .container {
+        gap: 10px 30px;
+    }
+
+
+    /* about css */
+    .abutimg {
+        top: -633px;
+        right: -312px;
+    }
+
+    .abutimg img {
+        height: 270px;
+    }
+
+    #about {
+
+        height: 100%;
+        margin-bottom: -28%;
+    }
+
+    .downsup h1 {
+        font-size: 27px;
+        line-height: 48px;
+    }
+
+    /* signing css */
+    .secdown {
+        padding: 7% 0% 4% 0%;
+    }
+
+    .secupper img {
+        height: 285px;
+    }
+
+    .downsdow {
+        margin-top: 0px;
+        margin-right: 2px;
+    }
+
+    .downsdow {
+        margin-top: 0px;
+        margin-right: 5px;
+    }
+
+    .secupper {
+        padding-right: 22px;
+    }
+
+    /* newsletter section  */
+
+    #newsletsec h1 {
+        font-size: 35px;
+    }
+
+
+    #newsletsec p {
+
+        font-size: 15px;
+        margin-bottom: 14px;
+    }
+
+    #newsletsec label {
+        margin: 10% 0%;
+    }
+
+    /* #newsletsec label{
+        margin-left: 53px;
+    } */
+
+    #newsletsec div button {
+        right: 0px;
+    }
+
+   /*footer section css*/
+    
+   .col1down {
+    gap: 7px 0px;
+    text-align: center;
+}
+
+.col1down h1 {
+    font-size: 65px;
+}
+
+.col1 {
+    padding: 6% 4% 15% 4%;
+}
+
+
+.col2lidiv p {
+    font-size: 17px;
+}
+
+.col2lidivp2 {
+    margin-top: 8px;
+    line-height: 20px;
+}
+
+.col2 ul li {
+    gap: 0px 19px;
+}
+
+.col2 {
+    padding: 6% 9% 6% 8%;
+}
+
+.col2 h3 {
+    text-align: center;
+    line-height: 44px;
+    font-size: 19px;
+}
+
+.col3 h3 {
+    text-align: center;
+    line-height: 30px;
+    font-size: 21px;
+}
+
+.col3 div p {
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.col1 {
+    padding: 15% 2% 6% 2%;
+}
+
+
+}
+
+@media only screen and (max-width:500px) {
+
+    /* about css */
+    .abutimg {
+        top: -674px;
+        right: -306px;
+    }
+
+    /* signing css */
+    .secupper {
+        padding-right: 20px;
+    }
+
+    .downsdow {
+        margin-top: 0px;
+        margin-right: 5px;
+    }
+
+    .secdown {
+        padding: 13% 0% 11% 0%;
+        text-align: center;
+    }
+
+
+    #signinsec {
+        height: 100%;
+        flex-direction: column;
+    }
+
+    .secupper {
+        padding-right: 22px;
+    }
+
+    .downsup p:nth-child(1) {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .downup2p {
+        font-size: 14px;
+        margin-bottom: 74px;
+    }
+
+    .downsdow {
+        padding: 0% 21%;
+    }
+
+    .downsup h1 {
+        font-size: 44px;
+        line-height: 88px;
+    }
+
+    #main #upp {
+        height: 83px;
+    }
+
+    .prodinner p {
+        font-size: 13px;
+        line-height: 50px;
+    }
+
+    .prodinner h1 {
+        font-size: 55px;
+        line-height: 68px;
+    }
+
+    /* user feedback css */
+
+
+    .ufeedbsec {
+        padding: 0% 0%;
+    }
+
+    .item {
+        width: 320px !important;
+    }
+
+    .feeddbuppdvi {
+        width: 100px;
+        height: 100px;
+    }
+
+    .feedbdowndiv h5 {
+        font-size: 16px;
+    }
+
+
+    .feedbdowndiv p {
+        font-family: Roboto, sans-serif;
+        font-style: italic;
+        color: #7c7c7c;
+        font-size: 10px;
+        line-height: 19px;
+    }
+
+
+
+    #ufeedbsec {
+        padding: 9% 5%;
+    }
+
+    .owl-theme .owl-dots .owl-dot span {
+        width: 10px;
+        height: 10px;
+    }
+
+
+
+    .col1 {
+        display: flex;
+        gap: 30px 15px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border-right: none;
+        padding: 6% 4% 6% 4%;
+    }
+
+
+     
+
+}
+
+
+
+@media only screen and (max-width:420px) {
+
+    /* header css */
+    #header {
+
+        height: 100%;
+    }
+
+
+    /* about css */
+    .abutimg {
+        top: -699px;
+        right: -257px;
+    }
+
+    .abutimg img {
+        height: 235px;
+    }
+
+
+    /* signing css */
+    /* .secupper img {
+        height: 197px;
+    }
+
+    .downsdow button {
+        font-size: 6px;
+        padding: 7%;
+        width: 64px;
+    }
+
+    .downsup p:nth-child(1) {
+        font-size: 6px;
+    }
+
+    .downsup h1 {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    .downup2p {
+        font-size: 9px;
+    }
+
+    .secdown {
+            padding: 14% 0% 15% 0%;
+    }
+
+    #signinsec {
+        height: 35vh;
+    }
+
+    .secupper {
+        padding-right: 32px;
+    }
+    
+    .downsdow {
+        margin-top: 0px;
+        margin-right: 10px;
+    } */
+
+
+
+    .downsup p:nth-child(1) {
+        font-size: 14px;
+        text-align: center;
+        margin-bottom: 12px;
+    }
+
+
+    .downup2p {
+        font-size: 14px;
+        margin-bottom: 45px;
+    }
+
+    .secupper {
+        padding-right: 0px;
+        padding-top: 48px;
+    }
+
+    .downsdow {
+        padding: 0px 53px;
+        text-align: center;
+    }
+
+    #signinsec {
+        height: 100%;
+        flex-direction: column;
+        padding-left: 0%;
+    }
+
+    .downsup h1 {
+        font-size: 35px;
+        line-height: 53px;
+        text-align: center;
+    }
+
+    .secdown {
+        padding: 13% 0% 6% 0%;
+        text-align: center;
+    }
+
+
+    /* product section css */
+
+    .proddown {
+        flex-direction: column;
+    }
+
+    /* newslett section */
+
+    #newsletsec h1 {
+        font-size: 29px;
+    }
+
+    #newsletsec p {
+        font-size: 15px;
+    }
+
+    div input {
+        width: 325px;
+    }
+
+
+}
+
+@media only screen and (max-width:412px) {
+    #header {
+        height: 100%;
+    }
+
+    .abutimg {
+        top: -713px;
+        right: -229px;
+    }
+
+    .abutimg img {
+        height: 235px;
+    }
+
+    /* newslett section */
+
+     #newsletsec {
+        padding: 2% 4% 25%;
+    }
+
+    .col1upper {
+        padding-top: 0px;
+    }
+
+
+    .col1 {
+        flex-direction: column;
+        border-right: none;
+        padding: 15% 4% 15% 4%;
+    } 
+    
+
+    .col2 h3 {
+        font-size: 24px;
+    }
+
+    .col2lidiv p {
+        font-size: 15px;
+    }
+
+    .col2 {
+        padding: 6% 9% 6% 10%;
+    }
+
+
+
+}
+
+
+
+@media only screen and (max-width:370px) {
+    #header {
+        height: 100%;
+    }
+
+    .abutimg {
+        top: -743px;
+        right: -203px;
+    }
+
+    #about {
+        height: 100%;
+        margin-bottom: -41%;
+    }
+
+    .container {
+        flex-direction: column;
+        padding-top: 60px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .prodimg img{
+        width: 174px;
+    }
+
+    #newsletsec h1 {
+        font-size: 29px;
+        text-align: center;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 290px) {
+    .abutimg {
+        top: -972px;
+        right: -130px;
+    }
+
+    .downsdow {
+        padding: 0px 14px;
+    }
+  
+   
+}
