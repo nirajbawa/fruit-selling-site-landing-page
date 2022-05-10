@@ -1,4 +1,9 @@
-window.onscroll = function () { myFunction() };
+window.onscroll = function () {
+    
+    myFunction()
+    myFunction1() 
+
+};
 
 var navbar = document.getElementById("upp");
 var sticky = navbar.offsetTop;
@@ -18,6 +23,8 @@ function myFunction() {
         }
     }
 }
+
+
 
 
 let mbutton;

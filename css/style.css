@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 /* navbar css */
@@ -214,13 +215,13 @@
         width: 0px;
     }
     to{
-        width: 360px;
+        width: 401px;
     }
 }
 
 @keyframes closeani{
     form{
-        width: 360px;
+        width: 401px;
     }
     to{
         width: 0px;
@@ -1041,4 +1042,55 @@
     font-size: 16px;
     line-height: 20px;
     text-transform: capitalize;
+}
+
+#upbntsec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 43px;
+    animation: btnup 3s linear forwards;
+    z-index: 0;
+}
+
+
+@keyframes btnup {
+    from{
+        bottom: -76px;
+    }
+    to{
+        bottom: 56px;
+    }
+}
+
+#upbntsec a{
+    text-decoration: none;
+    z-index: 35;
+    
+}
+
+#upbntsec button{
+    font-size: 53px;
+    color: white;
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    text-align: center;
+    background-color: #ca1813;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+}
+
+#upbntsec button:hover{
+    background-color: #be0b06;
+}
+
+#upbntsec button:active{
+    background-color: #be0b06;
+    transform: scale(0.9);
 }
