@@ -928,6 +928,7 @@
     flex-wrap: wrap;
     gap: 0px 0px;
     padding: 3% 2%;
+    text-transform: capitalize;
 }
 
 
@@ -1043,6 +1044,8 @@
     line-height: 20px;
     text-transform: capitalize;
 }
+
+/* up button section css */
 
 #upbntsec{
     display: flex;
